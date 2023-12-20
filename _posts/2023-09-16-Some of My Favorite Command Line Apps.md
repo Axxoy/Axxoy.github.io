@@ -14,7 +14,7 @@ Keep in mind that some of these are functional, some are absolute essentials, wh
 
 > For the installations and the rest of the post, I am using the Bash shell version 5.2.15, on MacOS. As for the package manager, I will be using [**homebrew**](https://brew.sh/) for the most part and some [**npm**](https://www.npmjs.com/) here and there as needed. There is a good chance all or most of these tools are available for your OS, so be make sure to check those out online for your OS if it’s different from MacOS.
 
-### 1\. Neofetch 
+## 1\. Neofetch 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*518MUkPCP1Guu_8L5kQC5Q.png)
 *Neofetch showing system info*
@@ -47,7 +47,7 @@ One of the reasons I really like neofetch is that you can take use it as a scree
 
 > **NOTE:** If you’re planning on sending a screenshot of your system info, make sure to cover up any sensitive information on there, like your ip address! It is possible to customize the neofetch script to display that kind of information, so make sure you keep that in mind 🌊.
 
-### 2\. Htop
+## 2\. Htop
 
 ![](https://cdn-images-1.medium.com/max/1600/1*IWiw_Ks36ZURR__37RttwA.png)
 *Screenshot of htop, from [htop.dev](https://htop.dev/images/htop-2.0.png)*
@@ -72,7 +72,7 @@ Then simply run `htop` and enjoy!
 
 For more info, be sure to checkout the official [docs](https://htop.dev/).
 
-### 3\. Speedtest-cli
+## 3\. Speedtest-cli
 
 ![](https://cdn-images-1.medium.com/max/1600/1*t0SmVYtV4Gdv555Tr5-H1g.png)
 
@@ -95,7 +95,7 @@ brew install speedtest --force
 
 For more installation options and operating systems head over to the [official site.](https://www.speedtest.net/apps/cli)
 
-### **4\. Medium Exporter**
+## **4\. Medium Exporter**
 
 This one’s pretty simple. Say you have a Medium blog post that you want to export and upload somewhere else, like your own website, without having to write the whole thing in markdown from scratch. That’s where Mediumexporter comes into play. Make sure you have [Node and npm](https://nodejs.org/en/download) downloaded for this, since that is what we’re using, rather than brew:
 
@@ -121,7 +121,7 @@ This is how I exported [this](https://cuneyt.me/posts/ChatGPT-A-Revolutionary-AI
 
 For more help on using Mediumexporter, check out this great [post](https://macropus.medium.com/export-your-medium-posts-to-markdown-b5ccc8cb0050)!
 
-### 5\. Cmatrix
+## 5\. Cmatrix
 
 Here’s a fun pick that’s not the most functional, but it’s definitely got some cool factor. It’s like those falling letters you see in the Matrix movies, giving your terminal window a bit of a makeover and a nod to pop culture.
 
@@ -138,7 +138,7 @@ Then simply run `cmatrix` and enjoy! I occasionally use this as a screensaver 
 
 For more options and help run cmatrix -h, man cmatrix, or check out the cmatrix [github page](https://github.com/abishekvashok/cmatrix/).
 
-### 6\. FFmpeg
+## 6\. FFmpeg
 
 This next one is, without a doubt, one of my go-to command line tools that I use all the time. If you haven't heard - FFmpeg is the father-of-all command line program when it comes to handling video, audio and images. You can do pretty much everything you can imagine - whether it's the simple things like converting a video from .mp4 to .mkv format, trim and edit videos, upscale videos using AI, extract certain frames from a video, merge tracks together, and so, so much more.
 
@@ -183,7 +183,7 @@ And that’s it! You now have a new file named output.mp3, which only contains t
 
 Check out the original FFmpeg [docs](https://ffmpeg.org/) for more information on usage.
 
-### **7\. Wifi-Password**
+## **7\. Wifi-Password**
 
 This one is pretty straight forward - and easy to use. If you are connected to a wifi network but can’t remember it’s password (let’s say when someone asks you for it), there is a way to view it using just one command. 
 
@@ -203,7 +203,7 @@ And after you fill in your information, you will be shown the current wifi-passw
 
 For more information on usage, check out the repo [here](https://github.com/rauchg/wifi-password).
 
-### 8\. Figlet
+## 8\. Figlet
 
 Another purely aesthetic program - Figlet allows you to display banner-like words and characters in your terminal window.
 
@@ -250,7 +250,7 @@ And if you would like this to be displayed on the terminal window each time a ne
 
 Find the brew package [here](https://formulae.brew.sh/formula/figlet#default).
 
-### 9\. ncdu
+## 9\. ncdu
 
 Ncdu stands for “NCurses Disk Usage”, and it essentially allows you to scan disks, mounted volumes, folders and more in a neat and fast way. If you’re not a fan of using the gui to sift through your disks — ncdu might be worth a try. You can analyze disks, clean them of unnecessary files to free up space, view and sort by size, export reports, visualize disk usage, and more. 
 
@@ -282,7 +282,7 @@ And delete using `d` 
 
 For more information, check out the [docs](https://dev.yorhel.nl/ncdu/man), and the [brew page](https://formulae.brew.sh/formula/ncdu#default).
 
-### 10\. Tldr
+## 10\. Tldr
 
 And last but not least, if you feel too lazy going through the full manual pages of programs, you might want to try tldr.
 
