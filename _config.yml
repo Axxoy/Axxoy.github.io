@@ -1,48 +1,63 @@
+# Server Config options
+livereload: true     # You no longer need to include --livereload
+
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: jekyll-theme-chirpy 
+
+# gems:
+#   - jekyll-relative-links
+
+# jekyll-relative_links:
+#   enabled: true
+#   collections: true
+
+# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
+# and doesn't have a custom domain.
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: en-US
 
-# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+timezone:  America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Cüneyt Aksoy 👾🦉 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+
+tagline: My little corner online 👋 - Projects, Blogs, Posts, Guides and random stuff :) # sit will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Cuneyt Aksoy personal website and blog - My little corner online 👋 - Projects, Blogs, Posts, Guides and random stuff - linux, mac, windows, programming, github, gaming, tech.
 
-# Fill in the protocol & hostname for your site.
-# e.g. 'https://username.github.io', note that it does not end with a '/'.
+# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: Axxoy # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: xPupRoss # change to your twitter username
 
-social:
+social: 
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Cüneyt Aksoy
+  email: cuneytaxoy@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    # - https://twitter.com/xPupRoss # change to your twitter homepage
+    # - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/cuneyt-aksoy
+    - https://www.axoy.me
 
 google_site_verification: # fill in to your verification string
 
@@ -65,38 +80,40 @@ google_analytics:
 #
 theme_mode: # [light|dark]
 
-# The CDN endpoint for images.
+# The CDN endpoint for images.x
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: assets/img/avatar/me-stroke.png
+
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname:  # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    repo:  Axxoy/Axxoy.github.io # <gh-username>/<repo>
+    issue_term:  DEL # < url | pathname | title | ...>
+
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
+    repo: Axxoy/Axxoy.github.io # <gh-username>/<repo>
+    repo_id:  # <owner>/<repo>
     category:
     category_id:
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
-    reactions_enabled: # optional, default to the value of `1`
+    reactions_enabled: 1 # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
@@ -109,10 +126,7 @@ assets:
 pwa:
   enabled: true # the option for PWA feature
 
-paginate: 10
-
-# The base URL of your site
-baseurl: ""
+paginate: 15 # the number of posts displayed per page (I think)
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -177,11 +191,12 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
-  - docs
   - tools
   - README.md
+  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
+  - node_modules
   - package*.json
 
 jekyll-archives:
