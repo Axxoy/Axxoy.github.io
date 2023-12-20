@@ -248,7 +248,7 @@ Breakdown: 
 
 And if you would like this to be displayed on the terminal window each time a new window is opened like I have done, you can simply place it in the .`bash_profile` file. Because this file is executed each time you start a new terminal session, the message you choose will be displayed on your window each time you start a new tab or instance of the terminal.
 
-Find the brew package [here](https://formulae.brew.sh/formula/figlet#default), and the official site [here](http://www.figlet.org/).
+Find the brew package [here](https://formulae.brew.sh/formula/figlet#default).
 
 ### 9\. ncdu
 
