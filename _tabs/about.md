@@ -8,16 +8,17 @@ order: 4
 {: .prompt-tip } -->
 
 
+
 ![...hmmm 🤔](/assets/img/about-me/me.png){: width="972" height="589" .w-50 .right}
 
 
 <div style="text-align: justify;">
-🙋🏻‍♂ Hey there, it's me, Cüneyt, and I'm thrilled to have you on my blog! I'm currently a senior CS student, always eager to learn, solve problems, indulge in gaming, and explore the tech world. My online adventures keep me absorbed, as I dive into various subjects, ranging from my major's developments to the intricacies of game design. 🚀
+🙋🏻‍♂ Hey there, it's me, Cüneyt, and I'm thrilled to have you on my blog! I'm currently a CS graduate, always eager to learn, solve problems, indulge in gaming, and explore the tech world. My online adventures keep me absorbed, as I dive into various subjects, ranging from my major's developments to the intricacies of game design. 🚀
 
 <br>
 <br>
 
-📓 I'm on the path to snagging a computer science bachelor's degree, with my eyes set on graduating in 2023. Whenever I find a moment, I delve into reading, soaking up new knowledge, and honing a mix of soft and technical skills.
+📓🎓 I graduated with a bachelor's degree in computer science in December 2023. In my spare time, I am passionate about continuous learning, exploring various subjects, and refining a blend of both technical expertise and interpersonal skills.
 
 <br>
 <br>
@@ -28,6 +29,7 @@ Between juggling my degree and my myriad interests, I make a point to zoom in on
 
 # This Site 
 
+
 <!-- <div style="text-align: justify"> -->
 I wanted to create a more `personal` and blog friendly website where I can really talk about myself, and share my thoughts. I also wanted to have a place where I can share my `projects`, `progress`, and of course, blog about whatever I find of `interest`. I do still intend on keeping my <a href="https://www.axoy.me"> other page </a>, but I will be using this one more often. Plus, this blog has a comment section at the bottom of posts, which I think is pretty cool 😅
 
@@ -37,13 +39,15 @@ You will find wide range of posts on here, from CS, to Linux, Bash, AI-concepts 
 > __*As for the technical side of this website, I made it using a [Jekyll](https://jekyllrb.com/) theme, and it is being hosted on [Github Pages](https://pages.github.com/). I will create a post on how I did it all of that, but in the meantime you can check out [this great post](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) if you would like to get started yourself!*__
 
 
+<!-- </div> -->
+
 # Educational Background
 
 
 Truman State University 🎓
-: Jan 2022 - present
+: Jan 2022 - December 2023
 > **Bachelor of Science in Computer Science - Award(s): President's Honorary Scholarship**
-+ Let's rewind to my days at **Truman State University** in the charming town of Kirksville, MO 🏛️. This is the chapter where I'm carving out my path in the realm of Computer Science 🖥️, working towards a Bachelor of Science degree with a GPA of 3.42 🎓.
++ Let's rewind to my days at **Truman State University** in the charming town of Kirksville, MO 🏛️. This is the chapter where I'm carving out my path in the realm of Computer Science 🖥️, and earned my Bachelor of Science degree with a GPA of 3.42 🎓.
 🏅 The journey isn't just about academics – I was honored to receive the President's Honorary Scholarship, which bolstered my enthusiasm and commitment to excellence.
 >
 > Inside the classroom, my horizons expanded with an array of coursework that delved into the very fabric of computing:
@@ -191,3 +195,4 @@ As for what's keeping me busy these days, I'm in the final stretch of my bachelo
 <hr style="border: 1px solid white">
 
 *Done already? Why not check out my [first post](/posts/ChatGPT-A-Revolutionary-AI-Chatbot-Thats-Changing-the-Way-We-Communicate)*
+
