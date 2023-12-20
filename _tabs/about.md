@@ -167,7 +167,7 @@ As for what's keeping me busy these days, I'm in the final stretch of my bachelo
 
 
 
-![hehe](/assets/img/about-me/coding.jpg){: width="340" .w-50 .right}
+![hehe](/assets/img/about-me/coding.jpg){: height="340" .w-50 .right}
 
 > You can find me on:
 
