@@ -47,7 +47,7 @@ You will find wide range of posts on here, from CS, to Linux, Bash, AI-concepts 
 Truman State University 🎓
 : Jan 2022 - December 2023
 > **Bachelor of Science in Computer Science - Award(s): President's Honorary Scholarship**
-+ Let's rewind to my days at **Truman State University** in the charming town of Kirksville, MO 🏛️. This is the chapter where I'm carving out my path in the realm of Computer Science 🖥️, and earned my Bachelor of Science degree with a GPA of 3.42 🎓.
++ Let's rewind to my days at **Truman State University** in the charming town of Kirksville, MO 🏛️. This is the chapter where I'm carving out my path in the realm of Computer Science 🖥️, and earned my Bachelor of Science degree with a GPA of 3.45 🎓.
 🏅 The journey isn't just about academics – I was honored to receive the President's Honorary Scholarship, which bolstered my enthusiasm and commitment to excellence.
 >
 > Inside the classroom, my horizons expanded with an array of coursework that delved into the very fabric of computing:
