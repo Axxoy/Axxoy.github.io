@@ -18,12 +18,12 @@ order: 4
 <br>
 <br>
 
-📓🎓 I graduated with a bachelor's degree in computer science in December 2023. In my spare time, I am passionate about continuous learning, exploring various subjects, and refining a blend of both technical expertise and interpersonal skills.
+📓🎓 I graduated with a bachelor's degree in Computer Science in December 2023. In my spare time, I am passionate about continuous learning, exploring various subjects, and refining a blend of both technical expertise and interpersonal skills.
 
 <br>
 <br>
 
-Between juggling my degree and my myriad interests, I make a point to zoom in on a select few at any given time – ones that bring me utmost joy and satisfaction. Presently, that translates to immersing myself deeper into my field, brushing up on <code>web development</code>, flexing my skills in <code>C#</code> and <code>Java</code>, and wrapping my head around <code>game design</code> essentials. Oh, and you might've noticed a sprinkle of my dabbling in photoshop and graphic design here and there, too! 🎨
+Between juggling my professional work and some of my interests, I make a point to zoom in on a select few at any given time – ones that bring me utmost joy and satisfaction. Presently, that translates to immersing myself deeper into my field, brushing up on <code>web development</code>, flexing my skills in <code>C#</code> and <code>Java</code>, and wrapping my head around <code>game design</code> essentials. Oh, and you might've noticed a sprinkle of my dabbling in photoshop and graphic design here and there, too! 🎨
 
 </div>
 
@@ -31,12 +31,12 @@ Between juggling my degree and my myriad interests, I make a point to zoom in on
 
 
 <!-- <div style="text-align: justify"> -->
-I wanted to create a more `personal` and blog friendly website where I can really talk about myself, and share my thoughts. I also wanted to have a place where I can share my `projects`, `progress`, and of course, blog about whatever I find of `interest`. I do still intend on keeping my <a href="https://www.axoy.me"> other page </a>, but I will be using this one more often. Plus, this blog has a comment section at the bottom of posts, which I think is pretty cool 😅
+I wanted to create a more `personal` and blog friendly website where I can really talk about myself, and share my thoughts. I also wanted to have a place where I can share my `projects`, `progress`, and of course, blog about whatever I find of `interest`. I do still intend on keeping my <a href="https://www.axoy.me"> other page </a>, but I will be using this one more often. Plus, this blog has a dark mode toggle, which is always appreciated 😅
 
-You will find wide range of posts on here, from CS, to Linux, Bash, AI-concepts of interest, projects I am working on or completed, video games I find interesting, my own game development journey, and even non-technical content.
+You will find a wide range of posts on here, from CS, to Linux, Bash, AI-concepts of interest, projects I am working on or completed, video games I find interesting, my own game development journey, and even non-technical content. Simply put, whatever feels right goes on here. 
 
 
-> __*As for the technical side of this website, I made it using a [Jekyll](https://jekyllrb.com/) theme, and it is being hosted on [Github Pages](https://pages.github.com/). I will create a post on how I did it all of that, but in the meantime you can check out [this great post](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) if you would like to get started yourself!*__
+> __*As for the technical side of this website, I made it using a [Jekyll](https://jekyllrb.com/) theme, and it is being hosted on [Github Pages](https://pages.github.com/). I am thinking of writing a post on how I did it all of that, but in the meantime you can check out [this great post](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) if you would like to get started yourself!*__
 
 
 <!-- </div> -->
@@ -152,7 +152,7 @@ That was when I really got into the youtube, streaming, and gaming world. I want
 | Quote 🎬   |   *The eyes, chico.. they never lie...* | 
 | Car Family 🚗 | Ford Mustang |
 | Artist 🎤 | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV?autoplay=true)|
-| SuperHero 🦸 | Iron-Man |
+| Super Hero 🦸 | Iron-Man |
 | Actor/Actress 🎭 | Yvonne Strahovski |
 
 
@@ -162,9 +162,9 @@ INFP... nuff said. But I try not to get too lost in personality types, they don'
 
 # Skills/Current Projects
 
-As for what's keeping me busy these days, I'm in the final stretch of my bachelor's degree, working my way through the last semester at university. 🎓 My focus is on a capstone project that's a culmination of my academic journey – a significant milestone. I'm diving into software development lifecycles and using agile methods to ensure things run smoothly. 💻 Alongside that, I'm also fine-tuning my software development skills to keep up with the ever-evolving industry. 🚀 On a personal interest note, I'm quietly exploring game design principles, finding the sweet spot where technology and creativity meet. 🎮 This phase is a mix of academic dedication, technical growth, and a touch of artistic curiosity, as I approach the point where I'll complete my degree and embark on new adventures. 🌱 
+As for what's keeping me busy these days, I'm in the final stretch of my bachelor's degree, working my way through the last semester at university. 🎓 My focus is on a capstone project that's a culmination of my academic journey – a significant milestone. I'm diving into software development lifecycles and using agile methods to ensure things run smoothly. 💻 Alongside that, I'm also fine-tuning my software development skills to keep up with the ever-evolving industry. 🚀 On a personal interest note, I'm quietly exploring game design principles, finding the sweet spot where technology and creativity meet. 🎮 This phase is a mix of academic dedication, technical growth, and a touch of artistic curiosity, as I approach the point where ready to take on new adventures. 🌱 
 
-> *You can find a copy of my resume [here](/assets/resume/Cuneyt%20Aksoy%20Resume.pdf)*
+<!-- > *You can find a copy of my resume [here](/assets/resume/Cuneyt%20Aksoy%20Resume.pdf)* -->
 
 <!-- # Future plans -->
 
@@ -176,7 +176,7 @@ As for what's keeping me busy these days, I'm in the final stretch of my bachelo
 
 > You can find me on:
 
-- [Instagram](https://instagram.com/cuneytaxoy)
+- [Instagram](https://instagram.com/tales.in.code)
 - [Linkedin](https://linkedin.com/in/cuneyt-aksoy)
 - [Medium](https://medium.com/@cuneytaxoy)
 - [Github](https://github.com/axxoy)
