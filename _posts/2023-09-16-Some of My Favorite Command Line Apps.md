@@ -1,4 +1,3 @@
----
 title: "My Favorite Command Line Applications 👾"
 date: 2023-09-16 01:00:00 -0400
 categories: [Tech, Tools]
@@ -208,8 +207,7 @@ For more information on usage, check out the repo [here](https://github.com/rauc
 Another purely aesthetic program - Figlet allows you to display banner-like words and characters in your terminal window.
 
 ![](https://cdn-images-1.medium.com/max/1600/1*7cQ5tAAgpmWCIoCJfvEh0Q.png)
-
-Type caption for image (optional)  
+*erkre* 
 
 ### Installation — Using Brew
 
@@ -264,8 +262,6 @@ Once you’re done — you can simply type in `ncdu` followed by the directo
 
 ![](https://cdn-images-1.medium.com/max/1600/1*TFIx0GvCXyVNqH9V0SHLIg.png)
 
-Type caption for image (optional)  
-
 From here on you can sort by pressing:
 
 `n:` order by filename
@@ -304,13 +300,11 @@ Results in this man page: 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*W_Zt5_6CvBG3mwlP6770zg.png)
 
-Type caption for image (optional)  
 
 While a regular `man ncdu` results in the following: 
 
 ![](https://cdn-images-1.medium.com/max/1600/1*H_Lj5y45kdmrMLCEjmkbPQ.png)
 
-Type caption for image (optional)  
 
 As you can see - the regular man command is more verbose, with content at the bottom waiting to be scrolled through. If you are looking for a quick summary of whatever program it is you're looking at, tldr might be a neat addition to your set of command line tools. Though I assume if you made it all the way to the end of this post you might not need it as much XD
 
