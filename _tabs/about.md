@@ -140,8 +140,8 @@ That was when I really got into the youtube, streaming, and gaming world. I want
 | Song 🎧      | [Fade to Black](https://www.youtube.com/watch?v=9HZ_tx8aWuA&pp=ygUNZmFkZSB0byBibGFjaw%3D%3D)      |
 | Dish 😋      | Mantı (Turkish ravioli)
 | Pet 🐶       | Corgi   |
-| Season 🌸   | Spring   |
-| Drink 🧋    |  Iced Matcha  |
+| Season 🌸   | Fall |
+| Drink 🧋    |  Iced Lemon Tea  |
 | Memory 🌟  | Admission into Truman | 
 | Sport ⚽️   | Soc- I mean *Football* |
 | Figure 👨‍🏫 | Seneca |
@@ -150,9 +150,10 @@ That was when I really got into the youtube, streaming, and gaming world. I want
 | Childhood Movie 📼 | Wall-E |
 | Spirit Animal ✨ | Owl | 
 | Quote 🎬   |   *The eyes, chico.. they never lie...* | 
-
-<!-- | Actor/Actress 🎭 |  | -->
-<!-- | Car 🚗 | | -->
+| Car Family 🚗 | Ford Mustang |
+| Artist 🎤 | [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV?autoplay=true)|
+| SuperHero 🦸 | Iron-Man |
+| Actor/Actress 🎭 | Yvonne Strahovski |
 
 
 # MBTI
