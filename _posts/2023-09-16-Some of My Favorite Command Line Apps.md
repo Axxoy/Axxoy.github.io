@@ -1,9 +1,10 @@
+---
 title: "My Favorite Command Line Applications 👾"
 date: 2023-09-16 01:00:00 -0400
 categories: [Tech, Tools]
 tags: [Terminal, Tools, Mac]
 image:
-  path: ../assets/img/Post-2023-09-16/cover.png
+  path: assets/img/Post-2023-09-16/cover.png
   alt: Cmatrix
 ---
 
