@@ -31,7 +31,7 @@ Between juggling my professional work and some of my interests, I make a point t
 
 
 <!-- <div style="text-align: justify"> -->
-I wanted to create a more `personal` and blog friendly website where I can really talk about myself, and share my thoughts. I also wanted to have a place where I can share my `projects`, `progress`, and of course, blog about whatever I find of `interest`. I do still intend on keeping my <a href="https://www.axoy.me"> other page </a>, but I will be using this one more often. Plus, this blog has a dark mode toggle, which is always appreciated 😅
+I wanted to create a more `personal` and blog friendly website where I can really talk about myself, and share my thoughts. I also wanted to have a place where I can share my `projects`, `progress`, and of course, blog about whatever I find of `interest`. I do still intend on keeping my <a href="https://axoy-website.web.app"> other site </a>, but I will be using this one more often. Plus, this blog has a dark mode toggle, which is always appreciated 😅
 
 You will find a wide range of posts on here, from CS, to Linux, Bash, AI-concepts of interest, projects I am working on or completed, video games I find interesting, my own game development journey, and even non-technical content. Simply put, whatever feels right goes on here. 
 
@@ -183,7 +183,7 @@ As for what's keeping me busy these days, I'm in the final stretch of my bachelo
 - [Email](mailto:cuneytaxoy@gmail.com) 
 - [itch.io](https://cuneytaksoy.itch.io/)
 - [Stack Overflow](https://stackoverflow.com/users/15431663/axoy)
-- [My Other Website](https://axoy.me)
+- [My Other Website](https://axoy-website.web.app)
 
 
 <br>
