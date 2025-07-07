@@ -37,7 +37,7 @@ jobs:
 
       - name: Setup Pages
         id: pages
-        uses: actions/configure-pages@4
+        uses: actions/configure-pages@3
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
