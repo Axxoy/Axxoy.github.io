@@ -36,11 +36,10 @@ jobs:
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: _site
+      - name: Upload Pages artifact
+  uses: actions/upload-pages-artifact@v2
+  with:
+    path: _site
 
   deploy:
     needs: build
