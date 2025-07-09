@@ -10,6 +10,8 @@ image:
 ---
 <!-- Test comment-->
 
+
+
 ### Everywhere I go, grimly he reappears
 
 *He's not leaving. He's here to stay for a while. Even though I beg him to go, he remains. What is he trying to teach me? Should I accept and learn to in his presence, rather than fighting him? How do I do that? How do I make my peace with that when deep down I know it hurts. It affects my every fibre, every second of every day. He never listens to me, and why would he? He holds the power. He casts his shadows on everything I do. He repeats, grimly; I'm here. Are you?*
