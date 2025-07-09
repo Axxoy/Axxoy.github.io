@@ -10,7 +10,13 @@ image:
 ---
 <!-- Test comment-->
 
+### Cheap fixs
 
+*Deep streaks. They only go as far as I do. I wish there was another way to feel it. Whatever it is. But no. This is it. This way only does it. No other vice could feel like so. Smooth and glazing, each streak flowing with grace. Ruby streams down my veins. Judy screams down my face. Or esque. I feel it all. Deeply. Truly.*
+
+*Do I wish I hadn’t? Do I look with remorse at what I sliced? Or do I sit back and watch as it flows. Maybe letting the river do its thing. Take with it all. Everything that has been. Everything that I am.*
+
+*I can’t witness the murder of the very self. As much as it urges me to. I can’t just sit back and let it die. So even though I want to let go. I keep holding ever so tight. Why can’t I let go? I wish I had.*
 
 ### Everywhere I go, grimly he reappears
 
