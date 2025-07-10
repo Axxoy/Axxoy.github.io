@@ -13,7 +13,7 @@ order: 4
 
 
 <div style="text-align: justify;">
-🙋🏻‍♂ Hey, I'm, Cüneyt. Thank you for checking out my page. I created this website to share things on my mind, and have a little corner to myself in the internet where I can put my artwork, share my thoughts and more. Just as a quick summary, I am in the IT world currently, doing deskside support, and keeping myself busy outside of work with reading, writing, amateur graphic design, and a few more here and there. I like to stay indooors, and prefer a quiet life. 🚀
+🙋🏻‍♂ Hey, I'm, Cüneyt. Thank you for checking out my page. I created this website to share things on my mind, and have a little corner to myself in the internet where I can put my artwork, share my thoughts and more. Just as a quick summary, I am in the IT world currently, doing deskside support, and keeping myself busy outside of work with reading, writing, amateur graphic design, and a few more here and there. I like to stay indoors, and prefer a quiet life. 🚀
 
 <br>
 <br>
