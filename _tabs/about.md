@@ -13,17 +13,17 @@ order: 4
 
 
 <div style="text-align: justify;">
-🙋🏻‍♂ Hey there, it's me, Cüneyt, and I'm thrilled to have you on my blog! I'm currently a CS graduate, always eager to learn, solve problems, indulge in gaming, and explore the tech world. My online adventures keep me absorbed, as I dive into various subjects, ranging from my major's developments to the intricacies of game design. 🚀
+🙋🏻‍♂ Hey, I'm, Cüneyt. Thank you for checking out my page. I created this website to share things on my mind, and have a little corner to myself in the internet where I can put my artwork, share my thoughts and more. Just as a quick summary, I am in the IT world currently, doing deskside support, and keeping myself busy outside of work with reading, writing, amateur graphic design, and a few more here and there. I like to stay indooors, and prefer a quiet life. 🚀
 
 <br>
 <br>
 
-📓🎓 I graduated with a bachelor's degree in Computer Science in December 2023. In my spare time, I am passionate about continuous learning, exploring various subjects, and refining a blend of both technical expertise and interpersonal skills.
+📓🎓 I graduated with a bachelor's degree in Computer Science in December 2023. In my spare time, I am passionate about continuous learning, exploring various subjects, and refining a blend of both technical expertise and interpersonal skills. After graduation, I pursued a few opportunities and interests, which all ended up in my being in New Jersey, and joining the corporate world, like I've wanted for some time!
 
 <br>
 <br>
 
-Between juggling my professional work and some of my interests, I make a point to zoom in on a select few at any given time – ones that bring me utmost joy and satisfaction. Presently, that translates to immersing myself deeper into my field, brushing up on <code>web development</code>, flexing my skills in <code>C#</code> and <code>Java</code>, and wrapping my head around <code>game design</code> essentials. Oh, and you might've noticed a sprinkle of my dabbling in photoshop and graphic design here and there, too! 🎨
+Between juggling my professional work and some of my interests, I make a point to zoom in on a select few at any given time – ones that bring me joy and satisfaction. Right now, that means dabbling in photoshop and graphic design here and there, scrapbooking, working on my hard skills etc. 🎨
 
 </div>
 
@@ -33,7 +33,7 @@ Between juggling my professional work and some of my interests, I make a point t
 <!-- <div style="text-align: justify"> -->
 I wanted to create a more `personal` and blog friendly website where I can really talk about myself, and share my thoughts. I also wanted to have a place where I can share my `projects`, `progress`, and of course, blog about whatever I find of `interest`. I do still intend on keeping my <a href="https://axoy-website.web.app"> other site </a>, but I will be using this one more often. Plus, this blog has a dark mode toggle, which is always appreciated 😅
 
-You will find a wide range of posts on here, from CS, to Linux, Bash, AI-concepts of interest, projects I am working on or completed, video games I find interesting, my own game development journey, and even non-technical content. Simply put, whatever feels right goes on here. 
+You will find a wide range of posts on here, from CS, to Linux, Bash, AI-concepts of interest, projects I am working on or completed, video games I find interesting, my own game development journey, and even non-technical content. Simply put, whatever feels right goes on here. I started with a big passion in coding, development, Java, game development, web development and the likes. But after a while I gave uo on pursuing them and gravitated more towards IT and Desk-side roles. I am still not entirely sure what I want to do for a living, but I am slowly figuring out what I don't want to do.
 
 
 > __*As for the technical side of this website, I made it using a [Jekyll](https://jekyllrb.com/) theme, and it is being hosted on [Github Pages](https://pages.github.com/). I am thinking of writing a post on how I did it all of that, but in the meantime you can check out [this great post](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) if you would like to get started yourself!*__
@@ -140,8 +140,8 @@ That was when I really got into the youtube, streaming, and gaming world. I want
 | Song 🎧      | [Fade to Black](https://www.youtube.com/watch?v=9HZ_tx8aWuA&pp=ygUNZmFkZSB0byBibGFjaw%3D%3D)      |
 | Dish 😋      | Mantı (Turkish ravioli)
 | Pet 🐶       | Corgi   |
-| Season 🌸   | Fall |
-| Drink 🧋    |  Iced Lemon Tea  |
+| Season 🌸   | Spring |
+| Drink 🧋    |  Iced Vanilla Coffee  |
 | Memory 🌟  | Admission into Truman | 
 | Sport ⚽️   | Soc- I mean *Football* |
 | Figure 👨‍🏫 | Seneca |
@@ -162,7 +162,7 @@ INFP... nuff said. But I try not to get too lost in personality types, they don'
 
 # Skills/Current Projects
 
-As for what's keeping me busy these days, I'm in the final stretch of my bachelor's degree, working my way through the last semester at university. 🎓 My focus is on a capstone project that's a culmination of my academic journey – a significant milestone. I'm diving into software development lifecycles and using agile methods to ensure things run smoothly. 💻 Alongside that, I'm also fine-tuning my software development skills to keep up with the ever-evolving industry. 🚀 On a personal interest note, I'm quietly exploring game design principles, finding the sweet spot where technology and creativity meet. 🎮 This phase is a mix of academic dedication, technical growth, and a touch of artistic curiosity, as I approach the point where ready to take on new adventures. 🌱 
+Trying to focus on my job, hopefully get a promotion. Working on skills, certifications, and my art. And just taking things slow :)
 
 <!-- > *You can find a copy of my resume [here](/assets/resume/Cuneyt%20Aksoy%20Resume.pdf)* -->
 
