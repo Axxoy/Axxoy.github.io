@@ -168,6 +168,12 @@ Trying to focus on my job, hopefully get a promotion. Working on skills, certifi
 
 <!-- # Future plans -->
 
+# My Life
+
+Quiet, slow. I try to work on a few things at once, and take it slow. Right now my priorities are focusing on my job, which is a deskside technician role, where I am seeking to work on my skills and hopefully elevate my career. In my free time, I study more with certificates, write, keep my blog updated, draw, go shopping, and listen to tunes. Music is a big part of my life. I prefer to keep a small yet close circle. More stuff to come. Currently located in New Jersey.
+
+Trying to focus on my job, hopefully get a promotion. Working on skills, certifications, and my art. And just taking things slow :)
+
 # Contact
 
 
