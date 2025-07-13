@@ -5,7 +5,7 @@ date: 2025-07-13 22:53:00 -0400
 categories: [Philosophia]
 tags: [Self, Philosophia, Improvement]
 image:
-  path: https://images.unsplash.com/photo-1751573375559-c487efe81a5d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8
+  path: assets/img/Post-2025-07-13/me.PNG
   alt: "Image"
 ---
 
