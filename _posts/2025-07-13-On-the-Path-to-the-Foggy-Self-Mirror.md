@@ -5,8 +5,8 @@ date: 2025-07-13 22:53:00 -0400
 categories: [Philosophia]
 tags: [Self, Philosophia, Improvement]
 image:
-  path: 
-  alt:
+  path: assets\img\Post-2025-07-13\meeee.PNG
+  alt: "Image"
 ---
 
 <!-- Test comment-->
