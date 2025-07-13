@@ -3,9 +3,9 @@ title: "On the Path to the Foggy Self Mirror"
 date: 2025-07-13 22:53:00 -0400
 
 categories: [Philosophia]
-tags: [Self, Philosophia]
+tags: [Self, Philosophia, Improvement]
 image:
-  path: assets/img/Post-2025-07-06/hands_outline_colored.png
+  path: 
   alt:
 ---
 
